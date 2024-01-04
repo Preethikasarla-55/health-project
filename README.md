@@ -69,7 +69,7 @@ Containers are a lightweight and portable form of virtualization that encapsulat
  ![Screenshot (5)](https://github.com/Preethikasarla-55/health-project/assets/102744348/cd908d75-bc58-4b63-96ba-b0c84499890c)
 
 
-# Language service:
+# Language Service:
 # Description:
 
 Language service descriptions play a crucial role in providing a clear understanding of the capabilities, features, and use cases of language-related services offered by cloud platforms like Azure. It plays a pivotal role in guiding developers, architects, and decision-makers in selecting, integrating, and utilizing language-related services effectively within their applications and projects.
