@@ -90,7 +90,7 @@ Language service descriptions play a crucial role in providing a clear understan
  
 
 # Working Live Project Display
-**Descriptio:** Here I am attaching the final working website's screenshot for the reference.
+**Descriptio:** Here I am attaching the final working websites screenshot for the reference.
  
 ![Screenshot (12)](https://github.com/Preethikasarla-55/health-project/assets/102744348/9096c469-3130-407c-837a-1c837308357d)
 
