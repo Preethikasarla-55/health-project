@@ -13,7 +13,7 @@
 # Azure AI Services Used
 1.Language Service
 
-2.Azure Bot service.
+2.Azure Bot Service.
 # Problem Statement
 The organ donation system faces a critical challenge marked by a severe shortage of available organs for transplantation. Despite advancements in medical technology and an increasing demand for life-saving organ transplants, the supply of donated organs has not kept pace. This shortage leads to prolonged waiting times, increased patient mortality rates, and a growing sense of despair among individuals awaiting life-saving transplants.
 # Project Description
