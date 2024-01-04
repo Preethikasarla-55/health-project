@@ -1,9 +1,9 @@
 # ORGAN DONATION APP -PROJECT
 **Project Title: “ORGAN DONATION APP” is a web app by using azure services.**
-**Team Members: Kasarla Preethi
-                Gattu SaiKumar
-                Kolla Himahasanthi
-                Nelli BHavani
+**Team Members**: 1.Kasarla Preethi
+                  2.Gattu SaiKumar
+                  3.Kolla Himahasanthi
+                  4.Nelli BHavani
                 
 1.	Project Demo URL: [https://healthorgan.z13.web.core.windows.net/]
 2.	Demo Video URL: [https://youtu.be/YkJn5FSwBKQ?si=EYQyEZc2lwDFfe8L]
