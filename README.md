@@ -8,7 +8,7 @@
 1.	Azure Storage Service
 2.	Azure Blob Service
 3.	Azure Containers
-4.	Azure static web
+4.	Azure static Web
 5.	Azure Backup service
 # Azure AI Services Used
 1.Language Service
