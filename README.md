@@ -4,6 +4,8 @@
                   2.Gattu SaiKumar <br>
                   3.Kolla Himahasanthi <br>
                   4.Nelli BHavani <br>
+
+**INTRODUCTION:** Welcome to our Organ Donation App's static website, powered by Azure services. Our platform simplifies organ donation registration, educates, and encourages donors. Join us in bridging the gap for life-saving donations."
                 
 1.	Project Demo URL: [https://healthorgan.z13.web.core.windows.net/]
 2.	Demo Video URL: [https://youtu.be/YkJn5FSwBKQ?si=EYQyEZc2lwDFfe8L]
