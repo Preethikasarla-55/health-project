@@ -1,6 +1,6 @@
 # ORGAN DONATION APP -PROJECT
 **Project Title: “ORGAN DONATION APP” is a web app by using azure services.**
-**Team Members**:<br> 1.Kasarla Preethi <br>
+<br>**Team Members**:<br> 1.Kasarla Preethi <br>
                   2.Gattu SaiKumar <br>
                   3.Kolla Himahasanthi <br>
                   4.Nelli BHavani <br>
