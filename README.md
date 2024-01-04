@@ -10,7 +10,7 @@
 1.	Project Demo URL: [https://healthorgan.z13.web.core.windows.net/]
 2.	Demo Video URL: [https://youtu.be/YkJn5FSwBKQ?si=EYQyEZc2lwDFfe8L]
 3.	Github Repository URL: [https://github.com/Preethikasarla-55/health-project.git]
-4. Industry:Organ Donation 
+ Industry:Organ Donation 
 # Azure Services Used
 1.	Azure Storage Service
 2.	Azure Blob Service
