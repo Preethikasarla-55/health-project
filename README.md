@@ -3,7 +3,7 @@
 <br>**Team Members**:<br> 1.Kasarla Preethi <br>
                   2.Gattu SaiKumar <br>
                   3.Kolla Himahasanthi <br>
-                  4.Nelli BHavani <br>
+                  4.Nelli Bhavani <br>
 
 **INTRODUCTION:** Welcome to our Organ Donation App's static website, powered by Azure services. Our platform simplifies organ donation registration, educates, and encourages donors. Join us in bridging the gap for life-saving donations."
                 
@@ -18,7 +18,7 @@
 4.	Azure static Web
 5.	Azure Backup service
 # Azure AI Services Used
-1.Language Service
+1.Language Service.
 
 2.Azure Bot Service.
 # Problem Statement
@@ -31,7 +31,7 @@ Azure Blob Storage Azure Blob Storage: Azure Blob Storage is Microsoft's scalabl
 Language service: The service provides a range of features that enhance productivity, code quality, and collaboration. It plays a central role in creating a developer-friendly environment and facilitating efficient software development workflows.
 Azure Bot Service: The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
-# Other Azure Technologies / Services
+# Other Azure Technologies / Services:
 In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.
 # Azure Monitor:
 **Real-time Performance Metrics:** Monitors vital overall performance indicators, ensuring the application runs seamlessly.
