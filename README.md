@@ -11,7 +11,7 @@
 4.	Azure static web
 5.	Azure Backup service
 # Azure AI Services Used
-1.Language service.
+1.Language Service
 
 2.Azure Bot service.
 # Problem Statement
